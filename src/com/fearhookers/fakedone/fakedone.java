@@ -24,6 +24,6 @@ extends JavaPlugin {
     
     @Override
     public void onDisable() {
-        getLogger().info("Fake Done 1.0 - MvcvMyAdmin Version Disabled");
+        getLogger().info("Fake Done 1.0 - McMyAdmin Version Disabled");
     }
 }
